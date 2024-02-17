@@ -1,0 +1,6 @@
+{
+    "keyboard_name": "pm_nyquist",
+    "usb": {
+        "pid": "0x4156"
+    }
+}
